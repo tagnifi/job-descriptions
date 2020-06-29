@@ -1,2 +1,2 @@
 # TagniFi Job Descriptions
-- Our home for our engineering job descriptions.
+- Looking for a part time engineer. Description located [here](https://github.com/tagnifi/job-descriptions/issues/1).
